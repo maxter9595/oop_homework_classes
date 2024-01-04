@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Объекты и классы. Инкапсуляция, наследование и полиморфизм»
 
->За основу выполнения задания был взят код из предыдущего задания. Ссылка на код: https://github.com/netology-code/py-homeworks-basic/blob/master/6.classes/students_and_mentor.py
+За основу выполнения задания был взят код из предыдущего задания. Ссылка на код: https://github.com/netology-code/py-homeworks-basic/blob/master/6.classes/students_and_mentor.py
 
 >Решение домашнего задания приведено в файле Students_and_mentors.py.
 
