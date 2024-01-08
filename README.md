@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Объекты и классы. Инкапсуляция, наследование и полиморфизм»
 
-За основу выполнения текущего домашнего задания был взят [код из предыдущего задания](https://github.com/netology-code/py-homeworks-basic/blob/master/6.classes/students_and_mentor.py). Решение домашнего задания приведено в файле Students_and_mentors.py.
+За основу выполнения [текущего домашнего задания](https://github.com/netology-code/py-homeworks-basic/tree/master/6.classes) был взят [код из предыдущего задания](https://github.com/netology-code/py-homeworks-basic/blob/master/6.classes/students_and_mentor.py). Решение домашнего задания приведено в файле Students_and_mentors.py.
 
 ## Задание № 1. Наследование
 Классы Lecturer (лекторы) и Reviewer (эксперты) созданы. Их наследование с родительским классом Mentor работает должным образом.
